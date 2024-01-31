@@ -32,6 +32,9 @@
 - `nmcli device status` (view adapters and status)
 - `nmcli connection show` (list connections)
 - Setup new connection as automatic for DHCP.
+
+ ![image](https://github.com/thulasigithub123/RHEL9_practice/assets/87015668/3afe66a0-1f27-4a44-87d6-c1e5d969692c)
+
 - Check IP: `ip addr show`
 - List gateways: `ip route`
 - DNS addresses: `cat /etc/resolv.conf`
