@@ -5,10 +5,10 @@
 - Download RHEL 9.3 ISO: `rhel-9.3-x86_64_dvd.iso`
 - VM Configuration:
   - Linux Server Instance: 
-    - IP: `10.0.2.5`
+    - IP: `10.0.2.5/24`
     - RAM: `4GB`, HDD: `20GB`, CPUs: `2`
   - Linux Client Instance:
-    - IP: `10.0.2.6`
+    - IP: `10.0.2.6/24`
 
 ### 2. Setting up Virtual Network Adapter
 - Host-only and NAT Network for Internet access.
